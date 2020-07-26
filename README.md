@@ -1,2 +1,2 @@
-# ApiNodeJs
-Construção de API com nodejs + mongoDB e testes usando mocha e chai
+# Projeto backend Portfolio
+Construção de API com nodejs + Mysql
